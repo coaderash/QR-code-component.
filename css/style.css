@@ -1,0 +1,41 @@
+/************************ tag selector************************/
+body {
+  background-color: #d6e2f0;
+  font-family: 'Outfit', sans-serif;
+  margin: 0;
+  padding: 80px 0 0 0;
+}
+
+/**********************class selector************************/
+.div {
+  background-color: white;
+  border-radius: 20px;
+  margin: 0 auto 0 auto;
+  padding: 20px 0 40px 0;
+  width: 25%;
+}
+
+.heading {
+  color: #1f3251;
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.20rem;
+  letter-spacing: .2px;
+  margin: auto;
+  padding: 0 0 20px 0;
+  text-align: center;
+  width: 60%;
+}
+
+.paragraph {
+  color: #7b879d;
+  font-family: 'Outfit', sans-serif;
+  margin: auto;
+  text-align: center;
+  width: 70%;
+}
+
+.qr-img {
+  border-radius: 10px;
+  margin: auto 20px 20px 20px;
+  width: 90%;
+}
